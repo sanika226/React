@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\my-project"
+		},
+		{
+			"path": "..\\..\\..\\node_modules"
+		}
+	]
+}

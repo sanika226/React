@@ -1,0 +1,14 @@
+.navbar{
+    background-image: linear-gradient(to right, #373b44, #4286f4);
+}
+nav .navbar-nav li a{
+    color: white;
+}
+nav .navbar-nav li a:hover{
+    transform:translateY(20px);
+    transition: transform 5s;
+    color: gray;
+}
+nav .fas {
+    color: white;
+}

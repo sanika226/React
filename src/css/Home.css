@@ -1,0 +1,35 @@
+.Home-container{
+    
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+.Home-content{
+    /* display: flex;
+    justify-content: space-around; */
+}
+.Home-content .Home-text{
+    width: 40%;
+}
+.down-icon{
+display: flex;
+justify-content: center;
+    
+}
+.down-icon a{
+    color: white;
+    font-size: 25px;
+}
+.down-icon a i:hover{
+    transform: translateY(20px);
+    transition: transform 2s;
+}
+@media (max-width:850px) {
+    .Home-content .Home-text{
+        width: 100%;
+        
+    }
+    
+}
+
