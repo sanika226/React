@@ -49,7 +49,7 @@ function Navbar() {
               </a>
             </li>
 
-          </ul>
+          </ul> 
         </div>
       </div>
     </nav>
